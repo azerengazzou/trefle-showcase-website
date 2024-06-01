@@ -1,6 +1,3 @@
-Thanks for downloading this template!
-
-Template Name: BizLand
-Template URL: https://bootstrapmade.com/bizland-bootstrap-business-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Trefle Architecture Showcase Website
+AZAD - Com agency - web department
+Welcome to the Trefle Architecture Showcase Website! This website is designed to display the impressive work of Trefle, an innovative and creative architecture firm.
